@@ -14,7 +14,7 @@ Parents who are not receiving email messages can have a variety of different thi
 
 Messages still have the chance of going to spam. If parents check their spam and see that there's some messages from their child's school in there, have them mark the message as "not spam". Most email clients will have this option inside of the message.
 
-<blockquote>You can also view our documentation on email reports to see if they're in the recipient list</blockquote>
+> You can also view our [documentation on email reports](/understanding-reports/) to see if they're in the recipient list
 
 ### Portal Access
 
