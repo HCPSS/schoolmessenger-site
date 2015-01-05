@@ -1,7 +1,5 @@
 title: HCPSS News Documentation
-email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: HCPSS
 
 # Build settings
